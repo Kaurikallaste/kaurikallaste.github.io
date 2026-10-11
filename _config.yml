@@ -28,9 +28,13 @@ twitter_username: h0cusp0cusm8
 github_username:  kaurikallaste
 
 # Build settings
-theme: no-style-please
+# remote_theme: riggraz/no-style-please
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  - jektex
+
+remote_theme: riggraz/no-style-please
 
 # Exclude from processing.
 # The following items will not be processed, by default.
