@@ -2,9 +2,9 @@
 entries:
   - title: posts
     post_list: true
-
   - title: rss
     url: feed.xml
-
   - title: about
     url: about
+  - title: github
+    url: https://github.com/kaurikallaste
