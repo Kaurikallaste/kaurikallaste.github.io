@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: h0cusp0cusm8
 github_username:  kaurikallaste
 
+future: true
+
 # Build settings
 # remote_theme: riggraz/no-style-please
 plugins:
