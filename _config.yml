@@ -28,6 +28,7 @@ twitter_username: h0cusp0cusm8
 github_username:  kaurikallaste
 
 future: true
+timezone: Europe/Tallinn
 
 # Build settings
 # remote_theme: riggraz/no-style-please
