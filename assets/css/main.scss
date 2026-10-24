@@ -1,0 +1,9 @@
+---
+---
+
+@import "no-style-please";
+
+// Scroll long code lines instead of wrapping them
+div.highlighter-rouge code {
+  white-space: pre;
+}
