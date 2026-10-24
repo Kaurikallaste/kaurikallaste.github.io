@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Like Rust"
-date: 2026-10-21 17:29
+date: 2026-10-21 22:41
 ---
 
 For my whole professional software developer career I have been writing PHP and TypeScript with a tiny bit of Java here and there. Recently I decided that I wanted to learn something new, so I picked up Rust. I have had fun, so I wanted to rant a little about PHP, its quirks, and how Rust handles similar situations.
