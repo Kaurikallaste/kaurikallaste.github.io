@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring the implementation of PHP array Part 1"
-date: 2026-10-24
+date: 2026-10-24 18:45
 ---
 
 I decided to go have a look at how arrays are implemented in PHP. The source code is available here: <https://github.com/php/php-src>{:target="_blank" rel="noopener"} if you want to have a poke around yourself. 
